@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Nếu em theo đuổi lại anh thì sao?",
-    introTitle: 'Kiều Hải Đăng nạnh nùng, dáng ghét quá đi',
+    introTitle: 'Kiều Hải Đăng nạnh nùng, đáng ghét quá đi',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
